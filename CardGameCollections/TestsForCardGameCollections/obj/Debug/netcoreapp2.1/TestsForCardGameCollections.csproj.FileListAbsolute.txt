@@ -1,0 +1,4 @@
+C:\Users\rhiannon\Source\Repos\CardGameCollections\CardGameCollections\TestsForCardGameCollections\obj\Debug\netcoreapp2.1\TestsForCardGameCollections.csprojAssemblyReference.cache
+C:\Users\rhiannon\Source\Repos\CardGameCollections\CardGameCollections\TestsForCardGameCollections\obj\Debug\netcoreapp2.1\TestsForCardGameCollections.csproj.CoreCompileInputs.cache
+C:\Users\rhiannon\Source\Repos\CardGameCollections\CardGameCollections\TestsForCardGameCollections\obj\Debug\netcoreapp2.1\TestsForCardGameCollections.AssemblyInfoInputs.cache
+C:\Users\rhiannon\Source\Repos\CardGameCollections\CardGameCollections\TestsForCardGameCollections\obj\Debug\netcoreapp2.1\TestsForCardGameCollections.AssemblyInfo.cs
